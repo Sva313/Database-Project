@@ -19,10 +19,6 @@ From that point on we started specifying primary keys and analyzing the relation
 
 We then drew in a sketchbook the plan, basically an example drawing of the database and after that we made it look more professional by using the *ER Diagram Online Tool* app to finalize the project!
  
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
 
 ## Screenshots
 
