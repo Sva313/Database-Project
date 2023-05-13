@@ -33,5 +33,5 @@ We then drew in a sketchbook the plan, basically an example drawing of the datab
 - [@Sva313](https://github.com/Sva313)
 
 
-![Logo](https://media.licdn.com/dms/image/C4E1BAQEDEhKsGhLwNw/company-background_10000/0/1631842013432?e=1681056000&v=beta&t=7QZNt5P920vq7PIxZqcF4DELS4takfWfOJzvTv0Ppr0)
+![Logo]([https://media.licdn.com/dms/image/C4E1BAQEDEhKsGhLwNw/company-background_10000/0/1631842013432?e=1681056000&v=beta&t=7QZNt5P920vq7PIxZqcF4DELS4takfWfOJzvTv0Ppr0](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZwch5yEvwbbhbUmb3pjJrZSGQK_JLXaOjA&usqp=CAU))
 
