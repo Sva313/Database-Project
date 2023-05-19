@@ -1,7 +1,7 @@
 # Project for Databases by **Cyber Insecurity**
 This project is about creating a database for a fashion blogger with some special requirements.
 
-We started off by gathering any existing data that will be included in the database.Then list the types of data you we to store and the entities that they describe like this:
+We started off by gathering any existing data that will be included in the database.Then list the types of data to store and the entities that they describe like this:
 
 + user
 + roles
